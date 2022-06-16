@@ -1,0 +1,16 @@
+node_modules
+src/apis
+src/utils/data
+./api.config.js
+./process.drawio
+./process.png
+./rollup.config.js
+.*.swp
+._*
+.DS_Store
+.git
+.hg
+.lock-wscript
+.svn
+.api.config.js
+vscode-yapi-generate

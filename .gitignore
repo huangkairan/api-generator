@@ -1,0 +1,9 @@
+node_modules
+src/apis
+src/utils/data
+vscode-yapi-generate/out
+vscode-yapi-generate/.vscode
+/lib
+./api.config.js
+.DS_Store
+api.config.js
