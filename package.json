@@ -12,6 +12,10 @@
     "diff": "ts-node --files -r tsconfig-paths/register ./src/index.ts -d",
     "build": "rollup -c"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huangkairan/api-generator"
+  },
   "author": "kaba",
   "license": "ISC",
   "dependencies": {
