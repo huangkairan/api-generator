@@ -5,7 +5,7 @@
 # how to use
 
 ```
-  npm i -g @kaba/api-generator
+  npm i -g @kairan.huang/api-generator
 
   api --help
 Options:

@@ -1,5 +1,5 @@
 {
-  "name": "@kaba/api-generator",
+  "name": "@kairan.huang/api-generator",
   "version": "1.0.0",
   "description": "一键生成TS类型文件和请求方法",
   "main": "lib/core/core.js",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/huangkairan/api-generator"
   },
-  "author": "kaba",
+  "author": "huangkairan",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
