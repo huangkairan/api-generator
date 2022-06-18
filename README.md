@@ -18,7 +18,7 @@ Options:
 ```
 
 
-# base configiration
+# api.config.js
 ```
 module.exports = {
   // 账号
