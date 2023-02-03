@@ -8,6 +8,7 @@
   npm i -g @kairan.huang/api-generator
 
   api --help
+
 Options:
   -v, --version   获取当前版本
   -i, --init      初始化配置文件
